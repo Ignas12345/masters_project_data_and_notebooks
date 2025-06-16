@@ -1,0 +1,2 @@
+1)TCGA_TGCT_mirna_isoform_data_rpm.csv - microrna expression rpm values of TCGA-TGCT samples. Downloaded using the notebook: "Notebooks/data_download_and_preparation/TCGA_TGCT_miRNA_exp_download.ipynb"
+2)TCGA_TGCT_mirna_isoform_data_raw_counts.csv - microrna expression raw counts of TCGA-TGCT samples. Downloaded using the same notebook as rpm counts: "Notebooks/data_download_and_preparation/TCGA_TGCT_miRNA_exp_download.ipynb"
