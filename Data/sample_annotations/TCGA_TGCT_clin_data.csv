@@ -1,0 +1,138 @@
+submitter_id;synchronous_malignancy;site_of_resection_or_biopsy;age_at_index;days_to_birth;primary_diagnosis;prior_malignancy;tissue_or_organ_of_origin;ajcc_pathologic_stage;diagnosis_is_primary_disease;gender
+TCGA-2G-AAEW;No;Testis, NOS;31.0;-11325.0;Seminoma, NOS;no;Testis, NOS;Stage IS;True;male
+TCGA-2G-AAEX;No;Testis, NOS;38.0;-13964.0;Seminoma, NOS;no;Testis, NOS;Stage IS;True;male
+TCGA-2G-AAF1;No;Testis, NOS;28.0;-10511.0;Seminoma, NOS;no;Testis, NOS;Stage IS;True;male
+TCGA-2G-AAF4;No;Testis, NOS;30.0;-10983.0;Seminoma, NOS;no;Testis, NOS;Stage I;True;male
+TCGA-2G-AAF6;No;Testis, NOS;28.0;-10281.0;Seminoma, NOS;no;Testis, NOS;Stage IS;True;male
+TCGA-2G-AAF8;No;Testis, NOS;33.0;-12256.0;Seminoma, NOS;no;Testis, NOS;Stage IA;True;male
+TCGA-2G-AAFG;No;Testis, NOS;30.0;-11002.0;Seminoma, NOS;no;Testis, NOS;Stage IS;True;male
+TCGA-2G-AAFH;No;Testis, NOS;38.0;-14120.0;Seminoma, NOS;no;Testis, NOS;Stage IIB;True;male
+TCGA-2G-AAFI;No;Testis, NOS;41.0;-14976.0;Embryonal carcinoma, NOS;no;Testis, NOS;Stage IB;True;male
+TCGA-2G-AAFJ;No;Testis, NOS;23.0;-8415.0;Teratoma, malignant, NOS;no;Testis, NOS;Stage I;True;male
+TCGA-2G-AAFL;No;Testis, NOS;35.0;-12898.0;Embryonal carcinoma, NOS;no;Testis, NOS;Stage IB;True;male
+TCGA-2G-AAFM;No;Testis, NOS;31.0;-11607.0;Embryonal carcinoma, NOS;no;Testis, NOS;Stage IIA;True;male
+TCGA-2G-AAFN;No;Testis, NOS;26.0;-9805.0;Embryonal carcinoma, NOS;no;Testis, NOS;Stage IIIB;True;male
+TCGA-2G-AAFO;No;Testis, NOS;33.0;-12298.0;Embryonal carcinoma, NOS;no;Testis, NOS;Stage IIA;True;male
+TCGA-2G-AAFV;No;Testis, NOS;31.0;-11598.0;Yolk sac tumor;no;Testis, NOS;Stage IS;True;male
+TCGA-2G-AAFY;No;Testis, NOS;24.0;-9023.0;Embryonal carcinoma, NOS;no;Testis, NOS;Stage IIA;True;male
+TCGA-2G-AAFZ;No;Testis, NOS;32.0;-11761.0;Mixed germ cell tumor;no;Testis, NOS;Stage III;True;male
+TCGA-2G-AAG0;No;Testis, NOS;23.0;-8687.0;Mixed germ cell tumor;yes;Testis, NOS;Stage IS;True;male
+TCGA-2G-AAG3;No;Testis, NOS;53.0;-19583.0;Mixed germ cell tumor;yes;Testis, NOS;Stage IS;True;male
+TCGA-2G-AAG5;No;Testis, NOS;36.0;-13497.0;Teratoma, benign;no;Testis, NOS;Stage IS;True;male
+TCGA-2G-AAG6;No;Testis, NOS;24.0;-9071.0;Teratoma, benign;no;Testis, NOS;Stage IS;True;male
+TCGA-2G-AAG7;No;Testis, NOS;33.0;-12180.0;Mixed germ cell tumor;no;Testis, NOS;Stage IS;True;male
+TCGA-2G-AAG8;No;Testis, NOS;21.0;-7688.0;Embryonal carcinoma, NOS;no;Testis, NOS;Stage IB;True;male
+TCGA-2G-AAG9;No;Testis, NOS;25.0;-9210.0;Seminoma, NOS;no;Testis, NOS;Stage IIIB;True;male
+TCGA-2G-AAGA;No;Testis, NOS;38.0;-14053.0;Embryonal carcinoma, NOS;no;Testis, NOS;Stage IIA;True;male
+TCGA-2G-AAGC;No;Testis, NOS;28.0;-10518.0;Mixed germ cell tumor;no;Testis, NOS;Stage IS;True;male
+TCGA-2G-AAGE;No;Testis, NOS;21.0;-7753.0;Embryonal carcinoma, NOS;no;Testis, NOS;Stage IS;True;male
+TCGA-2G-AAGF;No;Testis, NOS;28.0;-10348.0;Mixed germ cell tumor;no;Testis, NOS;Stage IS;True;male
+TCGA-2G-AAGG;No;Testis, NOS;20.0;-7330.0;Mixed germ cell tumor;no;Testis, NOS;Stage IIIC;True;male
+TCGA-2G-AAGI;No;Testis, NOS;33.0;-12366.0;Mixed germ cell tumor;no;Testis, NOS;Stage IS;True;male
+TCGA-2G-AAGI;No;Testis, NOS;33.0;-12366.0;Mixed germ cell tumor;no;Testis, NOS;Stage IS;True;male
+TCGA-2G-AAGJ;No;Testis, NOS;28.0;-10348.0;Mixed germ cell tumor;no;Testis, NOS;Stage IA;True;male
+TCGA-2G-AAGK;No;Testis, NOS;20.0;-7378.0;Mixed germ cell tumor;no;Testis, NOS;Stage IS;True;male
+TCGA-2G-AAGM;No;Testis, NOS;51.0;-18696.0;Yolk sac tumor;no;Testis, NOS;Stage IS;True;male
+TCGA-2G-AAGN;No;Testis, NOS;41.0;-15145.0;Embryonal carcinoma, NOS;no;Testis, NOS;Stage IIIB;True;male
+TCGA-2G-AAGO;No;Testis, NOS;41.0;-15300.0;Embryonal carcinoma, NOS;no;Testis, NOS;Stage IS;True;male
+TCGA-2G-AAGP;No;Testis, NOS;33.0;-12202.0;Mixed germ cell tumor;no;Testis, NOS;Stage IIA;True;male
+TCGA-2G-AAGS;No;Testis, NOS;39.0;-14312.0;Mixed germ cell tumor;no;Testis, NOS;Stage IIIB;True;male
+TCGA-2G-AAGT;No;Testis, NOS;30.0;-10967.0;Mixed germ cell tumor;no;Testis, NOS;Stage IS;True;male
+TCGA-2G-AAGV;No;Testis, NOS;23.0;-8612.0;Teratoma, benign;no;Testis, NOS;Stage II;True;male
+TCGA-2G-AAGW;No;Testis, NOS;38.0;-14197.0;Yolk sac tumor;no;Testis, NOS;Stage IS;True;male
+TCGA-2G-AAGX;No;Testis, NOS;22.0;-8326.0;Teratoma, benign;no;Testis, NOS;Stage IA;True;male
+TCGA-2G-AAGY;No;Testis, NOS;28.0;-10338.0;Teratoma, benign;no;Testis, NOS;Stage IS;True;male
+TCGA-2G-AAGY;No;Testis, NOS;28.0;-10338.0;Teratoma, benign;no;Testis, NOS;Stage IS;True;male
+TCGA-2G-AAGZ;No;Testis, NOS;27.0;-10157.0;Embryonal carcinoma, NOS;no;Testis, NOS;Stage IIIA;True;male
+TCGA-2G-AAH0;No;Testis, NOS;30.0;-11123.0;Seminoma, NOS;no;Testis, NOS;Stage IS;True;male
+TCGA-2G-AAH2;No;Testis, NOS;20.0;-7635.0;Mixed germ cell tumor;no;Testis, NOS;Stage IS;True;male
+TCGA-2G-AAH3;No;Testis, NOS;20.0;-7474.0;Seminoma, NOS;no;Testis, NOS;Stage I;True;male
+TCGA-2G-AAH4;No;Testis, NOS;34.0;-12481.0;Mixed germ cell tumor;no;Testis, NOS;Stage II;True;male
+TCGA-2G-AAH8;No;Testis, NOS;45.0;-16687.0;Seminoma, NOS;no;Testis, NOS;Stage IIIC;True;male
+TCGA-2G-AAHA;No;Testis, NOS;48.0;-17658.0;Seminoma, NOS;no;Testis, NOS;Stage IB;True;male
+TCGA-2G-AAHC;No;Testis, NOS;33.0;-12105.0;Seminoma, NOS;no;Testis, NOS;Stage IS;True;male
+TCGA-2G-AAHG;No;Testis, NOS;25.0;-9476.0;Seminoma, NOS;no;Testis, NOS;Stage I;True;male
+TCGA-2G-AAHL;No;Testis, NOS;26.0;-9749.0;Seminoma, NOS;no;Testis, NOS;Stage I;True;male
+TCGA-2G-AAHN;No;Testis, NOS;32.0;-12028.0;Seminoma, NOS;no;Testis, NOS;Stage I;True;male
+TCGA-2G-AAHP;No;Testis, NOS;31.0;-11649.0;Seminoma, NOS;no;Testis, NOS;Stage IS;True;male
+TCGA-2G-AAHP;No;Testis, NOS;31.0;-11649.0;Seminoma, NOS;no;Testis, NOS;Stage IS;True;male
+TCGA-2G-AAHT;No;Testis, NOS;32.0;-11905.0;Seminoma, NOS;no;Testis, NOS;Stage IS;True;male
+TCGA-2G-AAKD;No;Testis, NOS;18.0;-6814.0;Embryonal carcinoma, NOS;no;Testis, NOS;Stage III;True;male
+TCGA-2G-AAKG;No;Testis, NOS;22.0;-8353.0;Embryonal carcinoma, NOS;no;Testis, NOS;Stage I;True;male
+TCGA-2G-AAKG;No;Testis, NOS;22.0;-8353.0;Embryonal carcinoma, NOS;no;Testis, NOS;Stage I;True;male
+TCGA-2G-AAKH;No;Testis, NOS;19.0;-6954.0;Embryonal carcinoma, NOS;no;Testis, NOS;Stage II;True;male
+TCGA-2G-AAKL;No;Testis, NOS;26.0;-9813.0;Embryonal carcinoma, NOS;no;Testis, NOS;Stage II;True;male
+TCGA-2G-AAKM;No;Testis, NOS;14.0;-5321.0;Mixed germ cell tumor;no;Testis, NOS;Stage II;True;male
+TCGA-2G-AAL5;No;Testis, NOS;31.0;-11478.0;Mixed germ cell tumor;no;Testis, NOS;Stage I;True;male
+TCGA-2G-AAL7;No;Testis, NOS;32.0;-11917.0;Embryonal carcinoma, NOS;no;Testis, NOS;Stage IS;True;male
+TCGA-2G-AALP;No;Testis, NOS;43.0;-15977.0;Mixed germ cell tumor;no;Testis, NOS;Stage IIIB;True;male
+TCGA-2X-A9D5;No;Testis, NOS;49.0;-17969.0;Seminoma, NOS;no;Testis, NOS;Stage I;True;male
+TCGA-2X-A9D6;No;Testis, NOS;42.0;-15371.0;Seminoma, NOS;no;Testis, NOS;Stage I;True;male
+TCGA-4K-AA1G;No;Testis, NOS;34.0;-12696.0;Seminoma, NOS;no;Testis, NOS;Stage IS;True;male
+TCGA-4K-AA1H;No;Testis, NOS;26.0;-9658.0;Seminoma, NOS;no;Testis, NOS;Stage IA;True;male
+TCGA-4K-AA1I;No;Testis, NOS;26.0;-9679.0;Seminoma, NOS;no;Testis, NOS;Stage IA;True;male
+TCGA-4K-AAAL;No;Testis, NOS;31.0;-11622.0;Seminoma, NOS;no;Testis, NOS;Stage IS;True;male
+TCGA-S6-A8JW;No;Testis, NOS;37.0;-13861.0;Seminoma, NOS;no;Testis, NOS;Stage IS;True;male
+TCGA-S6-A8JX;No;Testis, NOS;27.0;-9963.0;Seminoma, NOS;no;Testis, NOS;Stage IB;True;male
+TCGA-S6-A8JY;No;Testis, NOS;27.0;-10219.0;Seminoma, NOS;no;Testis, NOS;Stage IS;True;male
+TCGA-SB-A6J6;No;Testis, NOS;22.0;-8233.0;Seminoma, NOS;no;Testis, NOS;Stage IA;True;male
+TCGA-SB-A76C;No;Testis, NOS;38.0;-14023.0;Seminoma, NOS;no;Testis, NOS;;True;male
+TCGA-SN-A6IS;No;Testis, NOS;26.0;-9618.0;Mixed germ cell tumor;no;Testis, NOS;Stage IS;True;male
+TCGA-SN-A84W;No;Testis, NOS;30.0;-11251.0;Mixed germ cell tumor;no;Testis, NOS;Stage IS;True;male
+TCGA-SN-A84X;No;Testis, NOS;21.0;-7833.0;Mixed germ cell tumor;no;Testis, NOS;Stage IS;True;male
+TCGA-SN-A84Y;No;Testis, NOS;18.0;-6805.0;Embryonal carcinoma, NOS;no;Testis, NOS;Stage IS;True;male
+TCGA-SO-A8JP;No;Testis, NOS;29.0;-10765.0;Seminoma, NOS;no;Testis, NOS;Stage I;True;male
+TCGA-VF-A8A8;No;Testis, NOS;18.0;-6822.0;Embryonal carcinoma, NOS;no;Testis, NOS;Stage IA;True;male
+TCGA-VF-A8A9;No;Testis, NOS;31.0;-11520.0;Seminoma, NOS;no;Testis, NOS;Stage IA;True;male
+TCGA-VF-A8AA;No;Testis, NOS;51.0;-18940.0;Seminoma, NOS;no;Testis, NOS;Stage I;True;male
+TCGA-VF-A8AB;No;Testis, NOS;31.0;-11659.0;Seminoma, NOS;no;Testis, NOS;Stage IA;True;male
+TCGA-VF-A8AC;No;Testis, NOS;29.0;-10598.0;Seminoma, NOS;no;Testis, NOS;Stage IA;True;male
+TCGA-VF-A8AD;No;Testis, NOS;36.0;-13499.0;Embryonal carcinoma, NOS;no;Testis, NOS;Stage IB;True;male
+TCGA-VF-A8AE;No;Testis, NOS;39.0;-14535.0;Seminoma, NOS;no;Testis, NOS;Stage IA;True;male
+TCGA-W4-A7U2;No;Testis, NOS;26.0;-9573.0;Mixed germ cell tumor;no;Testis, NOS;;True;male
+TCGA-W4-A7U3;No;Testis, NOS;26.0;-9581.0;Mixed germ cell tumor;no;Testis, NOS;;True;male
+TCGA-W4-A7U4;No;Testis, NOS;23.0;-8518.0;Embryonal carcinoma, NOS;no;Testis, NOS;;True;male
+TCGA-WZ-A7V3;No;Testis, NOS;20.0;-7325.0;Seminoma, NOS;no;Testis, NOS;Stage I;True;male
+TCGA-WZ-A7V4;No;Testis, NOS;28.0;-10262.0;Seminoma, NOS;no;Testis, NOS;Stage I;True;male
+TCGA-WZ-A7V5;No;Testis, NOS;27.0;-9886.0;Seminoma, NOS;no;Testis, NOS;Stage I;True;male
+TCGA-WZ-A8D5;No;Testis, NOS;38.0;-13974.0;Seminoma, NOS;no;Testis, NOS;Stage IB;True;male
+TCGA-X3-A8G4;No;Testis, NOS;33.0;-12117.0;Mixed germ cell tumor;no;Testis, NOS;Stage IS;True;male
+TCGA-XE-A8H1;No;Testis, NOS;24.0;-8893.0;Embryonal carcinoma, NOS;no;Testis, NOS;Stage IS;True;male
+TCGA-XE-A8H4;No;Testis, NOS;23.0;-8728.0;Seminoma, NOS;no;Testis, NOS;Stage IA;True;male
+TCGA-XE-A8H5;No;Testis, NOS;29.0;-10942.0;Seminoma, NOS;no;Testis, NOS;Stage IS;True;male
+TCGA-XE-A9SE;No;Testis, NOS;35.0;-12850.0;Seminoma, NOS;no;Testis, NOS;Stage IA;True;male
+TCGA-XE-AANI;No;Testis, NOS;37.0;-13553.0;Teratocarcinoma;no;Testis, NOS;Stage IS;True;male
+TCGA-XE-AANJ;No;Testis, NOS;39.0;-14314.0;Seminoma, NOS;no;Testis, NOS;Stage IS;True;male
+TCGA-XE-AANR;No;Testis, NOS;23.0;-8761.0;Seminoma, NOS;no;Testis, NOS;Stage I;True;male
+TCGA-XE-AANV;No;Testis, NOS;52.0;-19112.0;Seminoma, NOS;no;Testis, NOS;Stage IB;True;male
+TCGA-XE-AAO3;No;Testis, NOS;33.0;-12095.0;Seminoma, NOS;no;Testis, NOS;Stage I;True;male
+TCGA-XE-AAO4;No;Testis, NOS;40.0;-14930.0;Seminoma, NOS;no;Testis, NOS;Stage IA;True;male
+TCGA-XE-AAO6;No;Testis, NOS;47.0;-17417.0;Seminoma, NOS;no;Testis, NOS;Stage IA;True;male
+TCGA-XE-AAOB;No;Testis, NOS;27.0;-9907.0;Teratocarcinoma;no;Testis, NOS;Stage IS;True;male
+TCGA-XE-AAOC;No;Testis, NOS;31.0;-11566.0;Teratoma, malignant, NOS;no;Testis, NOS;Stage IA;True;male
+TCGA-XE-AAOD;No;Testis, NOS;39.0;-14265.0;Mixed germ cell tumor;no;Testis, NOS;Stage IB;True;male
+TCGA-XE-AAOF;No;Testis, NOS;50.0;-18490.0;Seminoma, NOS;no;Testis, NOS;Stage IA;True;male
+TCGA-XE-AAOJ;No;Testis, NOS;24.0;-9046.0;Mixed germ cell tumor;no;Testis, NOS;Stage IS;True;male
+TCGA-XE-AAOL;No;Testis, NOS;38.0;-14230.0;Seminoma, NOS;no;Testis, NOS;Stage I;True;male
+TCGA-XY-A89B;No;Testis, NOS;35.0;-12955.0;Seminoma, NOS;no;Testis, NOS;Stage IA;True;male
+TCGA-XY-A8S2;No;Testis, NOS;67.0;-24759.0;Embryonal carcinoma, NOS;no;Testis, NOS;Stage I;True;male
+TCGA-XY-A8S3;No;Testis, NOS;24.0;-8835.0;Embryonal carcinoma, NOS;no;Testis, NOS;Stage IS;True;male
+TCGA-XY-A9T9;No;Testis, NOS;37.0;-13604.0;Seminoma, NOS;no;Testis, NOS;Stage IS;True;male
+TCGA-YU-A90P;No;Testis, NOS;25.0;-9144.0;Embryonal carcinoma, NOS;no;Testis, NOS;Stage IA;True;male
+TCGA-YU-A90Q;No;Testis, NOS;21.0;-7846.0;Seminoma, NOS;no;Testis, NOS;Stage IB;True;male
+TCGA-YU-A90S;No;Testis, NOS;26.0;-9531.0;Seminoma, NOS;no;Testis, NOS;Stage IA;True;male
+TCGA-YU-A90W;No;Testis, NOS;45.0;-16497.0;Seminoma, NOS;no;Testis, NOS;Stage IA;True;male
+TCGA-YU-A90Y;No;Testis, NOS;23.0;-8460.0;Embryonal carcinoma, NOS;no;Testis, NOS;Stage IIIC;True;male
+TCGA-YU-A912;No;Testis, NOS;34.0;-12552.0;Seminoma, NOS;no;Testis, NOS;Stage IIIC;True;male
+TCGA-YU-A94D;No;Testis, NOS;28.0;-10427.0;Teratoma, malignant, NOS;no;Testis, NOS;Stage IIIB;True;male
+TCGA-YU-A94I;No;Testis, NOS;66.0;-24349.0;Yolk sac tumor;no;Testis, NOS;Stage IA;True;male
+TCGA-YU-AA4L;No;Testis, NOS;27.0;-9902.0;Embryonal carcinoma, NOS;no;Testis, NOS;Stage IIIC;True;male
+TCGA-YU-AA61;No;Testis, NOS;29.0;-10635.0;Mixed germ cell tumor;no;Testis, NOS;Stage IS;True;male
+TCGA-ZM-AA05;No;Testis, NOS;36.0;-13295.0;Seminoma, NOS;no;Testis, NOS;Stage IIC;True;male
+TCGA-ZM-AA06;No;Testis, NOS;45.0;-16719.0;Seminoma, NOS;no;Testis, NOS;Stage IB;True;male
+TCGA-ZM-AA0B;No;Testis, NOS;32.0;-11820.0;Seminoma, NOS;no;Testis, NOS;Stage IA;True;male
+TCGA-ZM-AA0D;No;Testis, NOS;34.0;-12738.0;Seminoma, NOS;no;Testis, NOS;Stage IA;True;male
+TCGA-ZM-AA0E;Yes;Testis, NOS;39.0;-14255.0;Seminoma, NOS;no;Testis, NOS;Stage IA;True;male
+TCGA-ZM-AA0F;No;Testis, NOS;35.0;-12973.0;Seminoma, NOS;no;Testis, NOS;Stage IA;True;male
+TCGA-ZM-AA0H;No;Testis, NOS;50.0;-18419.0;Seminoma, NOS;no;Testis, NOS;Stage IS;True;male
+TCGA-ZM-AA0N;No;Testis, NOS;44.0;-16094.0;Seminoma, NOS;no;Testis, NOS;Stage IB;True;male

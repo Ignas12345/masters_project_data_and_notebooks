@@ -1,0 +1,261 @@
+submitter_id;synchronous_malignancy;site_of_resection_or_biopsy;age_at_index;days_to_birth;primary_diagnosis;prior_malignancy;tissue_or_organ_of_origin;ajcc_pathologic_stage;diagnosis_is_primary_disease;gender;Age_Bin
+TCGA-W3-AA21;No;Not Reported;26.0;-9527.0;Malignant melanoma, NOS;no;Skin, NOS;Stage I;False;male;20-29
+TCGA-AS-3778;No;Kidney, NOS;35.0;-12937.0;Clear cell adenocarcinoma, NOS;no;Kidney, NOS;Stage I;True;male;30-39
+TCGA-IK-7675;No;Nervous system, NOS;43.0;-15900.0;Oligodendroglioma, NOS;no;Cerebrum;;True;male;40-49
+TCGA-ET-A39M;No;Thyroid gland;34.0;-12441.0;Papillary adenocarcinoma, NOS;no;Thyroid gland;Stage I;True;male;30-39
+TCGA-26-1438;Not Reported;Brain, NOS;36.0;-13489.0;Glioblastoma;not reported;Brain, NOS;;True;male;30-39
+TCGA-06-0187;Not Reported;Brain, NOS;69.0;-25318.0;Glioblastoma;not reported;Brain, NOS;;True;male;60-69
+TCGA-CM-6674;No;Hepatic flexure of colon;39.0;-14368.0;Adenocarcinoma, NOS;no;Hepatic flexure of colon;Stage IIA;True;male;30-39
+TCGA-27-1837;Not Reported;Brain, NOS;36.0;-13368.0;Glioblastoma;not reported;Brain, NOS;;True;male;30-39
+TCGA-S9-A6WO;No;Nervous system, NOS;29.0;-10933.0;Astrocytoma, NOS;no;Cerebrum;;True;male;20-29
+TCGA-DV-5574;No;Kidney, NOS;37.0;-13517.0;Clear cell adenocarcinoma, NOS;yes;Kidney, NOS;Stage I;True;male;30-39
+TCGA-P5-A72X;No;Nervous system, NOS;21.0;-7913.0;Astrocytoma, anaplastic;no;Cerebrum;;True;male;20-29
+TCGA-A3-3365;No;Kidney, NOS;46.0;-16915.0;Clear cell adenocarcinoma, NOS;no;Kidney, NOS;Stage I;True;male;40-49
+TCGA-S9-A6U8;No;Nervous system, NOS;24.0;-9044.0;Astrocytoma, NOS;no;Cerebrum;;True;male;20-29
+TCGA-4V-A9QM;No;Thymus;39.0;-14576.0;Thymoma, type AB, malignant;no;Thymus;;True;male;30-39
+TCGA-DX-AB2G;No;Retroperitoneum;36.0;-13239.0;Dedifferentiated liposarcoma;no;Retroperitoneum;;True;male;30-39
+TCGA-TM-A7C5;No;Nervous system, NOS;30.0;-11286.0;Mixed glioma;no;Cerebrum;;True;male;30-39
+TCGA-FV-A4ZQ;No;Liver;52.0;-19090.0;Hepatocellular carcinoma, NOS;no;Liver;Stage I;True;male;50-59
+TCGA-DU-8163;No;Nervous system, NOS;29.0;-10824.0;Mixed glioma;no;Cerebrum;;True;male;20-29
+TCGA-BR-4279;No;Stomach, NOS;43.0;-16065.0;Adenocarcinoma, NOS;no;Stomach, NOS;Stage II;True;male;40-49
+TCGA-P5-A5ET;No;Nervous system, NOS;27.0;-10027.0;Oligodendroglioma, NOS;no;Cerebrum;;True;male;20-29
+TCGA-CE-A3MD;No;Thyroid gland;31.0;-11399.0;Papillary adenocarcinoma, NOS;no;Thyroid gland;Stage I;True;male;30-39
+TCGA-E3-A3DY;No;Thyroid gland;37.0;-13860.0;Papillary carcinoma, follicular variant;no;Thyroid gland;Stage I;True;male;30-39
+TCGA-E1-A7YW;No;Nervous system, NOS;28.0;-10571.0;Mixed glioma;no;Cerebrum;;True;male;20-29
+TCGA-HT-7609;No;Nervous system, NOS;34.0;-12607.0;Mixed glioma;no;Cerebrum;;True;male;30-39
+TCGA-CJ-4908;No;Kidney, NOS;38.0;-14226.0;Clear cell adenocarcinoma, NOS;no;Kidney, NOS;Stage I;True;male;30-39
+TCGA-DD-A1EL;No;Liver;23.0;-8573.0;Hepatocellular carcinoma, NOS;no;Liver;Stage II;True;male;20-29
+TCGA-ET-A2MX;No;Thyroid gland;27.0;-10044.0;Papillary adenocarcinoma, NOS;no;Thyroid gland;Stage I;True;male;20-29
+TCGA-DU-6542;No;Nervous system, NOS;25.0;-9380.0;Mixed glioma;no;Cerebrum;;True;male;20-29
+TCGA-A4-A772;No;Kidney, NOS;39.0;-14278.0;Papillary adenocarcinoma, NOS;no;Kidney, NOS;Stage I;True;male;30-39
+TCGA-QR-A6H6;No;Connective, subcutaneous and other soft tissues of trunk, NOS;27.0;-10180.0;Extra-adrenal paraganglioma, NOS;no;Connective, subcutaneous and other soft tissues of trunk, NOS;;True;male;20-29
+TCGA-BB-7866;No;Head, face or neck, NOS;40.0;-14810.0;Squamous cell carcinoma, NOS;no;Tonsil, NOS;;True;male;40-49
+TCGA-CR-7385;No;Head, face or neck, NOS;42.0;-15477.0;Squamous cell carcinoma, NOS;no;Tonsil, NOS;;True;male;40-49
+TCGA-02-0028;Not Reported;Brain, NOS;39.0;-14304.0;Glioblastoma;not reported;Brain, NOS;;True;male;30-39
+TCGA-VM-A8CE;No;Nervous system, NOS;25.0;-9363.0;Oligodendroglioma, NOS;no;Cerebrum;;True;male;20-29
+TCGA-FG-8187;No;Nervous system, NOS;31.0;-11684.0;Mixed glioma;yes;Cerebrum;;True;male;30-39
+TCGA-P5-A5F6;No;Nervous system, NOS;26.0;-9575.0;Oligodendroglioma, NOS;no;Cerebrum;;True;male;20-29
+TCGA-D3-A8GB;No;Not Reported;48.0;-17871.0;Malignant melanoma, NOS;no;Skin, NOS;Stage IIIB;False;male;40-49
+TCGA-DX-AB3C;No;Connective, subcutaneous and other soft tissues of lower limb and hip;27.0;-10034.0;Synovial sarcoma, spindle cell;no;Connective, subcutaneous and other soft tissues of lower limb and hip;;True;male;20-29
+TCGA-GF-A769;No;Skin of lower limb and hip;39.0;-14304.0;Nodular melanoma;no;Skin, NOS;Stage IIC;True;male;30-39
+TCGA-D3-A8GV;No;Not Reported;25.0;-9344.0;Malignant melanoma, NOS;no;Skin, NOS;;False;male;20-29
+TCGA-02-0026;Not Reported;Brain, NOS;27.0;-10022.0;Glioblastoma;not reported;Brain, NOS;;True;male;20-29
+TCGA-KL-8340;No;Kidney, NOS;34.0;-12696.0;Renal cell carcinoma, chromophobe type;no;Kidney, NOS;Stage II;True;male;30-39
+TCGA-FG-5963;No;Nervous system, NOS;23.0;-8571.0;Astrocytoma, anaplastic;no;Cerebrum;;True;male;20-29
+TCGA-VM-A8CB;No;Nervous system, NOS;33.0;-12340.0;Oligodendroglioma, anaplastic;no;Cerebrum;;True;male;30-39
+TCGA-FY-A3ON;No;Thyroid gland;20.0;-7403.0;Papillary adenocarcinoma, NOS;no;Thyroid gland;Stage I;True;male;20-29
+TCGA-QU-A6IM;No;Prostate gland;59.0;-21792.0;Adenocarcinoma, NOS;yes;Prostate gland;;True;male;50-59
+TCGA-DB-A4XG;No;Nervous system, NOS;34.0;-12550.0;Oligodendroglioma, anaplastic;no;Frontal lobe;;True;male;30-39
+TCGA-EM-A2CK;No;Thyroid gland;28.0;-10485.0;Papillary carcinoma, follicular variant;no;Thyroid gland;Stage I;True;male;20-29
+TCGA-DJ-A2PQ;No;Thyroid gland;26.0;-9664.0;Papillary adenocarcinoma, NOS;no;Thyroid gland;Stage I;True;male;20-29
+TCGA-ET-A40Q;No;Thyroid gland;38.0;-14136.0;Papillary carcinoma, columnar cell;no;Thyroid gland;Stage I;True;male;30-39
+TCGA-FY-A3BL;No;Thyroid gland;29.0;-10667.0;Papillary adenocarcinoma, NOS;no;Thyroid gland;Stage I;True;male;20-29
+TCGA-DD-AAVZ;No;Liver;38.0;-14005.0;Hepatocellular carcinoma, NOS;no;Liver;Stage I;True;male;30-39
+TCGA-HT-7873;No;Nervous system, NOS;29.0;-10805.0;Mixed glioma;no;Cerebrum;;True;male;20-29
+TCGA-G6-A8L6;No;Kidney, NOS;55.0;-20306.0;Clear cell adenocarcinoma, NOS;no;Kidney, NOS;Stage IV;True;male;50-59
+TCGA-CV-5979;No;Head, face or neck, NOS;26.0;-9567.0;Squamous cell carcinoma, NOS;no;Tongue, NOS;Stage IVA;True;male;20-29
+TCGA-P5-A730;No;Nervous system, NOS;22.0;-8043.0;Mixed glioma;no;Cerebrum;;True;male;20-29
+TCGA-A6-6141;No;Cecum;31.0;-11391.0;Adenocarcinoma, NOS;no;Colon, NOS;Stage IIA;True;male;30-39
+TCGA-ET-A3BU;No;Thyroid gland;28.0;-10510.0;Papillary adenocarcinoma, NOS;no;Thyroid gland;Stage I;True;male;20-29
+TCGA-QR-A70R;No;Adrenal gland, NOS;43.0;-15917.0;Pheochromocytoma, NOS;no;Adrenal gland, NOS;;True;male;40-49
+TCGA-15-1444;Not Reported;Brain, NOS;21.0;-7827.0;Glioblastoma;not reported;Brain, NOS;;True;male;20-29
+TCGA-E1-5305;No;Nervous system, NOS;34.0;-12655.0;Astrocytoma, anaplastic;no;Brain, NOS;;True;male;30-39
+TCGA-WY-A85B;No;Nervous system, NOS;24.0;-8817.0;Astrocytoma, NOS;no;Cerebrum;;True;male;20-29
+TCGA-WB-A817;Yes;Adrenal gland, NOS;27.0;-9981.0;Pheochromocytoma, NOS;no;Adrenal gland, NOS;;True;male;20-29
+TCGA-WE-AA9Y;No;Not Reported;37.0;-13850.0;Malignant melanoma, NOS;no;Skin, NOS;Stage IIIC;False;male;30-39
+TCGA-DJ-A2PR;No;Thyroid gland;27.0;-9914.0;Papillary adenocarcinoma, NOS;yes;Thyroid gland;Stage I;True;male;20-29
+TCGA-73-A9RS;No;Lung, NOS;41.0;-15162.0;Mucinous adenocarcinoma;no;Upper lobe, lung;Stage IIB;True;male;40-49
+TCGA-B0-5697;No;Kidney, NOS;50.0;-18486.0;Clear cell adenocarcinoma, NOS;no;Kidney, NOS;Stage I;True;male;50-59
+TCGA-MT-A51X;No;Head, face or neck, NOS;30.0;-10976.0;Squamous cell carcinoma, keratinizing, NOS;no;Tongue, NOS;Stage IVA;True;male;30-39
+TCGA-FG-8182;No;Nervous system, NOS;35.0;-12972.0;Oligodendroglioma, NOS;no;Cerebrum;;True;male;30-39
+TCGA-KM-A7Q6;No;Kidney, NOS;36.0;-13269.0;Renal cell carcinoma, chromophobe type;no;Kidney, NOS;Stage I;True;male;30-39
+TCGA-BP-4797;No;Kidney, NOS;34.0;-12508.0;Clear cell adenocarcinoma, NOS;no;Kidney, NOS;Stage III;True;male;30-39
+TCGA-ZN-A9VO;No;Pleura, NOS;36.0;-13243.0;Epithelioid mesothelioma, malignant;no;Pleura, NOS;Stage IV;True;male;30-39
+TCGA-DU-7299;No;Nervous system, NOS;33.0;-12266.0;Astrocytoma, anaplastic;no;Cerebrum;;True;male;30-39
+TCGA-B0-5084;No;Kidney, NOS;33.0;-12219.0;Clear cell adenocarcinoma, NOS;no;Kidney, NOS;Stage IV;True;male;30-39
+TCGA-ER-A2NE;No;Not Reported;39.0;-14259.0;Malignant melanoma, NOS;no;Skin, NOS;Stage 0;False;male;30-39
+TCGA-HW-8321;No;Nervous system, NOS;31.0;-11474.0;Astrocytoma, NOS;no;Cerebrum;;True;male;30-39
+TCGA-WB-A81G;No;Adrenal gland, NOS;25.0;-9248.0;Pheochromocytoma, NOS;no;Adrenal gland, NOS;;True;male;20-29
+TCGA-DU-A7TI;No;Nervous system, NOS;32.0;-11906.0;Astrocytoma, anaplastic;no;Cerebrum;;True;male;30-39
+TCGA-32-4208;Not Reported;Brain, NOS;25.0;-9213.0;Glioblastoma;not reported;Brain, NOS;;True;male;20-29
+TCGA-QH-A6X3;No;Nervous system, NOS;27.0;-10184.0;Mixed glioma;no;Cerebrum;;True;male;20-29
+TCGA-EL-A3ZG;No;Thyroid gland;15.0;-5612.0;Papillary adenocarcinoma, NOS;no;Thyroid gland;Stage I;True;male;<20
+TCGA-ET-A3BX;No;Thyroid gland;24.0;-8791.0;Papillary adenocarcinoma, NOS;no;Thyroid gland;Stage I;True;male;20-29
+TCGA-S9-A6U9;No;Nervous system, NOS;36.0;-13460.0;Astrocytoma, anaplastic;no;Cerebrum;;True;male;30-39
+TCGA-OR-A5JC;No;Adrenal gland, NOS;37.0;-13862.0;Adrenal cortical carcinoma;no;Cortex of adrenal gland;;True;male;30-39
+TCGA-RC-A6M3;No;Liver;24.0;-8899.0;Hepatocellular carcinoma, NOS;no;Liver;Stage II;True;male;20-29
+TCGA-S7-A7WQ;No;Adrenal gland, NOS;19.0;-7269.0;Pheochromocytoma, malignant;no;Adrenal gland, NOS;;True;male;<20
+TCGA-J8-A3YH;No;Thyroid gland;39.0;-14470.0;Papillary adenocarcinoma, NOS;no;Thyroid gland;Stage I;True;male;30-39
+TCGA-HT-7476;No;Nervous system, NOS;26.0;-9614.0;Astrocytoma, NOS;no;Cerebrum;;True;male;20-29
+TCGA-DD-AAVX;No;Liver;38.0;-14016.0;Hepatocellular carcinoma, NOS;no;Liver;Stage II;True;male;30-39
+TCGA-TM-A84L;No;Nervous system, NOS;31.0;-11498.0;Mixed glioma;no;Cerebrum;;True;male;30-39
+TCGA-MR-A8JO;No;Liver;34.0;-12669.0;Hepatocellular carcinoma, fibrolamellar;no;Liver;Stage I;True;male;30-39
+TCGA-P5-A5F1;No;Nervous system, NOS;30.0;-11070.0;Astrocytoma, NOS;no;Cerebrum;;True;male;30-39
+TCGA-UB-A7MB;No;Liver;24.0;-8951.0;Hepatocellular carcinoma, NOS;no;Liver;Stage II;True;male;20-29
+TCGA-DD-A1EH;No;Liver;23.0;-8499.0;Hepatocellular carcinoma, NOS;no;Liver;Stage III;True;male;20-29
+TCGA-HT-7611;No;Nervous system, NOS;36.0;-13314.0;Mixed glioma;no;Cerebrum;;True;male;30-39
+TCGA-DJ-A3VL;No;Thyroid gland;38.0;-14219.0;Papillary carcinoma, follicular variant;no;Thyroid gland;Stage I;True;male;30-39
+TCGA-HT-7472;No;Nervous system, NOS;38.0;-13968.0;Oligodendroglioma, NOS;no;Cerebrum;;True;male;30-39
+TCGA-HT-7603;No;Nervous system, NOS;29.0;-10883.0;Oligodendroglioma, NOS;no;Brain, NOS;;True;male;20-29
+TCGA-HW-7491;No;Nervous system, NOS;35.0;-12874.0;Oligodendroglioma, NOS;no;Cerebrum;;True;male;30-39
+TCGA-KL-8337;No;Kidney, NOS;26.0;-9819.0;Renal cell carcinoma, chromophobe type;no;Kidney, NOS;Stage II;True;male;20-29
+TCGA-UD-AAC7;No;Pleura, NOS;47.0;-17299.0;Epithelioid mesothelioma, malignant;no;Pleura, NOS;Stage II;True;male;40-49
+TCGA-B9-4617;No;Kidney, NOS;41.0;-15053.0;Papillary adenocarcinoma, NOS;no;Kidney, NOS;;True;male;40-49
+TCGA-EE-A2MG;No;Not Reported;23.0;-8405.0;Malignant melanoma, NOS;no;Skin, NOS;Stage I;False;male;20-29
+TCGA-OR-A5JI;No;Adrenal gland, NOS;22.0;-8177.0;Adrenal cortical carcinoma;no;Cortex of adrenal gland;;True;male;20-29
+TCGA-H2-A2K9;No;Thyroid gland;25.0;-9221.0;Papillary adenocarcinoma, NOS;no;Thyroid gland;Stage I;True;male;20-29
+TCGA-HT-7473;No;Nervous system, NOS;28.0;-10306.0;Mixed glioma;no;Brain, NOS;;True;male;20-29
+TCGA-FG-8181;No;Nervous system, NOS;23.0;-8642.0;Mixed glioma;no;Cerebrum;;True;male;20-29
+TCGA-P5-A5EZ;No;Nervous system, NOS;39.0;-14375.0;Astrocytoma, anaplastic;no;Cerebrum;;True;male;30-39
+TCGA-TQ-A7RH;No;Nervous system, NOS;39.0;-14524.0;Mixed glioma;no;Cerebrum;;True;male;30-39
+TCGA-HW-7487;No;Nervous system, NOS;39.0;-14535.0;Oligodendroglioma, NOS;no;Cerebrum;;True;male;30-39
+TCGA-DD-A4NB;No;Liver;25.0;-9426.0;Hepatocellular carcinoma, fibrolamellar;no;Liver;Stage I;True;male;20-29
+TCGA-DB-A4XA;No;Nervous system, NOS;30.0;-11195.0;Mixed glioma;no;Temporal lobe;;True;male;30-39
+TCGA-TQ-A7RK;No;Nervous system, NOS;29.0;-10742.0;Oligodendroglioma, NOS;no;Cerebrum;;True;male;20-29
+TCGA-ET-A39O;No;Thyroid gland;39.0;-14295.0;Papillary carcinoma, columnar cell;no;Thyroid gland;Stage I;True;male;30-39
+TCGA-E1-A7Z4;No;Nervous system, NOS;35.0;-12849.0;Astrocytoma, NOS;no;Cerebrum;;True;male;30-39
+TCGA-HT-7690;No;Nervous system, NOS;29.0;-10673.0;Mixed glioma;no;Cerebrum;;True;male;20-29
+TCGA-LN-A4A4;No;Esophagus, NOS;36.0;-13419.0;Squamous cell carcinoma, NOS;no;Lower third of esophagus;Stage III;True;male;30-39
+TCGA-HT-7478;No;Nervous system, NOS;36.0;-13216.0;Astrocytoma, NOS;no;Cerebrum;;True;male;30-39
+TCGA-DB-A4XC;Yes;Nervous system, NOS;26.0;-9705.0;Mixed glioma;no;Temporal lobe;;True;male;20-29
+TCGA-KK-A7AW;No;Prostate gland;57.0;-20869.0;Adenocarcinoma, NOS;no;Prostate gland;;True;male;50-59
+TCGA-HT-7605;No;Nervous system, NOS;38.0;-13892.0;Oligodendroglioma, NOS;no;Brain, NOS;;True;male;30-39
+TCGA-D3-A8GE;No;Skin of upper limb and shoulder;26.0;-9517.0;Spindle cell melanoma, NOS;no;Skin, NOS;Stage IV;True;male;20-29
+TCGA-HT-A61B;No;Nervous system, NOS;22.0;-8335.0;Astrocytoma, anaplastic;no;Cerebrum;;True;male;20-29
+TCGA-BP-5194;No;Kidney, NOS;39.0;-14551.0;Clear cell adenocarcinoma, NOS;no;Kidney, NOS;Stage I;True;male;30-39
+TCGA-F7-A620;No;Head, face or neck, NOS;47.0;-17475.0;Squamous cell carcinoma, keratinizing, NOS;no;Base of tongue, NOS;Stage III;True;male;40-49
+TCGA-BA-6873;No;Head, face or neck, NOS;28.0;-10512.0;Squamous cell carcinoma, NOS;no;Tongue, NOS;Stage IVA;True;male;20-29
+TCGA-S7-A7WW;No;Adrenal gland, NOS;34.0;-12729.0;Pheochromocytoma, NOS;no;Adrenal gland, NOS;;True;male;30-39
+TCGA-02-0080;Not Reported;Brain, NOS;28.0;-10310.0;Glioblastoma;not reported;Brain, NOS;;True;male;20-29
+TCGA-HT-7483;No;Nervous system, NOS;14.0;-5267.0;Mixed glioma;no;Cerebrum;;True;male;<20
+TCGA-J8-A3O2;No;Thyroid gland;39.0;-14339.0;Papillary adenocarcinoma, NOS;no;Thyroid gland;Stage I;True;male;30-39
+TCGA-WB-A822;No;Adrenal gland, NOS;23.0;-8708.0;Pheochromocytoma, malignant;no;Adrenal gland, NOS;;True;male;20-29
+TCGA-KM-A7QA;No;Kidney, NOS;18.0;-6837.0;Renal cell carcinoma, chromophobe type;no;Kidney, NOS;Stage II;True;male;<20
+TCGA-SI-A71O;No;Connective, subcutaneous and other soft tissues of lower limb and hip;29.0;-10710.0;Malignant peripheral nerve sheath tumor;no;Connective, subcutaneous and other soft tissues of lower limb and hip;;True;male;20-29
+TCGA-XU-A92X;No;Thymus;17.0;-6572.0;Thymoma, type B2, malignant;no;Thymus;;True;male;<20
+TCGA-02-0024;Not Reported;Brain, NOS;35.0;-13116.0;Glioblastoma;not reported;Brain, NOS;;True;male;30-39
+TCGA-QR-A70I;No;Retroperitoneum;24.0;-9070.0;Extra-adrenal paraganglioma, NOS;no;Retroperitoneum;;True;male;20-29
+TCGA-KT-A74X;No;Nervous system, NOS;26.0;-9590.0;Mixed glioma;no;Cerebrum;;True;male;20-29
+TCGA-WY-A85A;No;Nervous system, NOS;20.0;-7380.0;Astrocytoma, NOS;no;Cerebrum;;True;male;20-29
+TCGA-OR-A5JW;No;Adrenal gland, NOS;47.0;-17513.0;Adrenal cortical carcinoma;no;Cortex of adrenal gland;;True;male;40-49
+TCGA-P5-A5F0;No;Nervous system, NOS;33.0;-12157.0;Oligodendroglioma, NOS;no;Brain, NOS;;True;male;30-39
+TCGA-SP-A6QD;No;Adrenal gland, NOS;26.0;-9829.0;Pheochromocytoma, NOS;no;Adrenal gland, NOS;;True;male;20-29
+TCGA-CJ-4875;No;Kidney, NOS;67.0;-24510.0;Clear cell adenocarcinoma, NOS;no;Kidney, NOS;Stage IV;True;male;60-69
+TCGA-QH-A86X;No;Nervous system, NOS;33.0;-12385.0;Oligodendroglioma, NOS;no;Cerebrum;;True;male;30-39
+TCGA-DE-A4M9;No;Thyroid gland;28.0;-10384.0;Papillary adenocarcinoma, NOS;no;Thyroid gland;Stage I;True;male;20-29
+TCGA-HT-7856;No;Nervous system, NOS;35.0;-13145.0;Oligodendroglioma, anaplastic;no;Cerebrum;;True;male;30-39
+TCGA-2Z-A9JM;No;Kidney, NOS;28.0;-10323.0;Papillary adenocarcinoma, NOS;no;Kidney, NOS;Stage I;True;male;20-29
+TCGA-06-0129;Not Reported;Brain, NOS;30.0;-11284.0;Glioblastoma;not reported;Brain, NOS;;True;male;30-39
+TCGA-HT-A5RB;No;Nervous system, NOS;24.0;-8820.0;Astrocytoma, NOS;no;Cerebrum;;True;male;20-29
+TCGA-QR-A6H2;No;Adrenal gland, NOS;33.0;-12281.0;Pheochromocytoma, NOS;no;Adrenal gland, NOS;;True;male;30-39
+TCGA-DX-A6BH;No;Retroperitoneum;34.0;-12742.0;Dedifferentiated liposarcoma;no;Retroperitoneum;;True;male;30-39
+TCGA-EM-A2P1;No;Thyroid gland;33.0;-12320.0;Papillary adenocarcinoma, NOS;no;Thyroid gland;Stage I;True;male;30-39
+TCGA-S9-A7J2;No;Nervous system, NOS;25.0;-9345.0;Oligodendroglioma, anaplastic;no;Cerebrum;;True;male;20-29
+TCGA-ET-A25M;No;Thyroid gland;33.0;-12085.0;Papillary adenocarcinoma, NOS;no;Thyroid gland;Stage I;True;male;30-39
+TCGA-QR-A70N;No;Adrenal gland, NOS;32.0;-11781.0;Pheochromocytoma, NOS;no;Adrenal gland, NOS;;True;male;30-39
+TCGA-19-5958;Not Reported;Brain, NOS;56.0;-20466.0;Glioblastoma;not reported;Brain, NOS;;True;male;50-59
+TCGA-EM-A22Q;No;Thyroid gland;36.0;-13341.0;Papillary carcinoma, follicular variant;no;Thyroid gland;Stage I;True;male;30-39
+TCGA-02-0014;Not Reported;Brain, NOS;25.0;-9369.0;Glioblastoma;not reported;Brain, NOS;;True;male;20-29
+TCGA-02-0266;Not Reported;Brain, NOS;14.0;-5303.0;Glioblastoma;not reported;Brain, NOS;;True;male;<20
+TCGA-D3-A2JK;No;Not Reported;24.0;-8952.0;Malignant melanoma, NOS;no;Skin, NOS;Stage IIIC;False;male;20-29
+TCGA-QR-A703;Yes;Adrenal gland, NOS;23.0;-8421.0;Pheochromocytoma, NOS;no;Adrenal gland, NOS;;True;male;20-29
+TCGA-XU-A932;No;Thymus;37.0;-13618.0;Thymoma, type B2, malignant;no;Thymus;;True;male;30-39
+TCGA-DB-A4XB;No;Nervous system, NOS;38.0;-13990.0;Astrocytoma, anaplastic;no;Occipital lobe;;True;male;30-39
+TCGA-VD-A8KA;No;Choroid;22.0;-8271.0;Mixed epithelioid and spindle cell melanoma;no;Choroid;Stage IIB;True;male;20-29
+TCGA-TM-A84Q;No;Nervous system, NOS;31.0;-11668.0;Astrocytoma, NOS;no;Cerebrum;;True;male;30-39
+TCGA-V4-A9EJ;No;Choroid;38.0;-13958.0;Spindle cell melanoma, NOS;no;Choroid;Stage IIB;True;male;30-39
+TCGA-TQ-A7RO;No;Nervous system, NOS;29.0;-10890.0;Mixed glioma;no;Cerebrum;;True;male;20-29
+TCGA-DU-A5TP;No;Nervous system, NOS;33.0;-12111.0;Astrocytoma, anaplastic;no;Cerebrum;;True;male;30-39
+TCGA-IB-AAUU;No;Pancreas, NOS;35.0;-13127.0;Infiltrating duct carcinoma, NOS;no;Head of pancreas;Stage IIB;True;male;30-39
+TCGA-CR-7393;No;Head, face or neck, NOS;26.0;-9750.0;Squamous cell carcinoma, NOS;no;Tongue, NOS;Stage III;True;male;20-29
+TCGA-12-0773;Not Reported;Brain, NOS;24.0;-8849.0;Glioblastoma;not reported;Brain, NOS;;True;male;20-29
+TCGA-VQ-A928;No;Stomach, NOS;49.0;-18058.0;Papillary adenocarcinoma, NOS;no;Body of stomach;Stage IV;True;male;40-49
+TCGA-HT-8015;No;Nervous system, NOS;21.0;-7760.0;Astrocytoma, NOS;no;Cerebrum;;True;male;20-29
+TCGA-P5-A5EY;No;Nervous system, NOS;21.0;-7716.0;Astrocytoma, NOS;no;Cerebrum;;True;male;20-29
+TCGA-CV-7440;No;Head, face or neck, NOS;38.0;-13992.0;Squamous cell carcinoma, NOS;no;Larynx, NOS;Stage II;True;male;30-39
+TCGA-06-0221;Not Reported;Brain, NOS;31.0;-11333.0;Glioblastoma;not reported;Brain, NOS;;True;male;30-39
+TCGA-DB-A64S;No;Nervous system, NOS;20.0;-7389.0;Mixed glioma;no;Cerebrum;;True;male;20-29
+TCGA-DU-A76O;No;Nervous system, NOS;30.0;-10960.0;Astrocytoma, NOS;yes;Cerebrum;;True;male;30-39
+TCGA-HT-7469;No;Nervous system, NOS;30.0;-11097.0;Oligodendroglioma, anaplastic;no;Cerebrum;;True;male;30-39
+TCGA-ER-A3ES;No;Not Reported;25.0;-9366.0;Malignant melanoma, NOS;no;Skin, NOS;;False;male;20-29
+TCGA-X7-A8M7;No;Anterior mediastinum;26.0;-9815.0;Thymoma, type B2, malignant;no;Anterior mediastinum;;True;male;20-29
+TCGA-EE-A3AG;No;Not Reported;25.0;-9161.0;Malignant melanoma, NOS;no;Skin, NOS;Stage III;False;male;20-29
+TCGA-QR-A6GZ;Yes;Adrenal gland, NOS;31.0;-11573.0;Pheochromocytoma, NOS;no;Adrenal gland, NOS;;True;male;30-39
+TCGA-HD-7832;No;Head, face or neck, NOS;52.0;-19192.0;Squamous cell carcinoma, NOS;no;Floor of mouth, NOS;Stage IVA;True;male;50-59
+TCGA-EE-A2A1;No;Not Reported;46.0;-17109.0;Malignant melanoma, NOS;no;Skin, NOS;Stage IB;False;male;40-49
+TCGA-G9-6384;No;Prostate gland;53.0;-19620.0;Acinar cell carcinoma;no;Prostate gland;;True;male;50-59
+TCGA-ED-A7XO;No;Liver;29.0;-10828.0;Hepatocellular carcinoma, NOS;no;Liver;Stage IIIA;True;male;20-29
+TCGA-QR-A6GU;Yes;Adrenal gland, NOS;31.0;-11592.0;Pheochromocytoma, NOS;yes;Adrenal gland, NOS;;True;male;30-39
+TCGA-EL-A3CY;No;Thyroid gland;28.0;-10423.0;Papillary adenocarcinoma, NOS;yes;Thyroid gland;Stage I;True;male;20-29
+TCGA-CV-A465;No;Head, face or neck, NOS;24.0;-9015.0;Squamous cell carcinoma, NOS;no;Tongue, NOS;Stage III;True;male;20-29
+TCGA-BB-A5HU;Yes;Head, face or neck, NOS;47.0;-17502.0;Squamous cell carcinoma, NOS;no;Mouth, NOS;Stage IVA;True;male;40-49
+TCGA-R6-A6L4;No;Esophagus, NOS;27.0;-10222.0;Adenocarcinoma, NOS;no;Lower third of esophagus;;True;male;20-29
+TCGA-19-A60I;No;Brain, NOS;39.0;-14437.0;Glioblastoma;no;Brain, NOS;;True;male;30-39
+TCGA-02-0102;Not Reported;Brain, NOS;42.0;-15660.0;Glioblastoma;not reported;Brain, NOS;;True;male;40-49
+TCGA-FG-8191;No;Nervous system, NOS;30.0;-11252.0;Oligodendroglioma, anaplastic;no;Cerebrum;;True;male;30-39
+TCGA-OR-A5LM;No;Adrenal gland, NOS;23.0;-8735.0;Adrenal cortical carcinoma;no;Cortex of adrenal gland;;True;male;20-29
+TCGA-FN-7833;No;Nervous system, NOS;25.0;-9228.0;Mixed glioma;no;Cerebrum;;True;male;20-29
+TCGA-DU-7013;No;Nervous system, NOS;59.0;-21824.0;Astrocytoma, anaplastic;no;Cerebrum;;True;male;50-59
+TCGA-DD-AACQ;No;Liver;50.0;-18429.0;Hepatocellular carcinoma, NOS;no;Liver;Stage II;True;male;50-59
+TCGA-DU-7011;No;Nervous system, NOS;25.0;-9322.0;Mixed glioma;no;Cerebrum;;True;male;20-29
+TCGA-BJ-A18Y;No;Thyroid gland;29.0;-10832.0;Papillary adenocarcinoma, NOS;no;Thyroid gland;Stage I;True;male;20-29
+TCGA-MJ-A850;No;Connective, subcutaneous and other soft tissues of head, face, and neck;28.0;-10451.0;Synovial sarcoma, spindle cell;no;Connective, subcutaneous and other soft tissues of head, face, and neck;;True;male;20-29
+TCGA-HT-7858;No;Nervous system, NOS;28.0;-10422.0;Astrocytoma, NOS;no;Cerebrum;;True;male;20-29
+TCGA-08-0351;Not Reported;Brain, NOS;40.0;-14838.0;Glioblastoma;yes;Brain, NOS;;True;male;40-49
+TCGA-DD-A3A4;No;Liver;37.0;-13739.0;Hepatocellular carcinoma, NOS;no;Liver;Stage IIIA;True;male;30-39
+TCGA-QT-A5XL;No;Adrenal gland, NOS;27.0;-10028.0;Pheochromocytoma, malignant;no;Adrenal gland, NOS;;True;male;20-29
+TCGA-DD-AAVW;No;Liver;35.0;-12986.0;Hepatocellular carcinoma, NOS;no;Liver;Stage I;True;male;30-39
+TCGA-32-1973;Not Reported;Brain, NOS;21.0;-7756.0;Glioblastoma;not reported;Brain, NOS;;True;male;20-29
+TCGA-BP-4758;No;Kidney, NOS;40.0;-14824.0;Clear cell adenocarcinoma, NOS;no;Kidney, NOS;Stage I;True;male;40-49
+TCGA-ZB-A96R;No;Anterior mediastinum;38.0;-13977.0;Thymoma, type B2, malignant;no;Anterior mediastinum;;True;male;30-39
+TCGA-TM-A84T;No;Nervous system, NOS;19.0;-6994.0;Mixed glioma;no;Cerebrum;;True;male;<20
+TCGA-G3-AAV1;No;Liver;51.0;-18973.0;Hepatocellular carcinoma, NOS;no;Liver;Stage IIIC;True;male;50-59
+TCGA-HT-7602;No;Nervous system, NOS;21.0;-7946.0;Oligodendroglioma, NOS;no;Brain, NOS;;True;male;20-29
+TCGA-DJ-A3VJ;No;Thyroid gland;22.0;-8341.0;Nonencapsulated sclerosing carcinoma;no;Thyroid gland;Stage I;True;male;20-29
+TCGA-DB-5276;No;Nervous system, NOS;32.0;-11738.0;Mixed glioma;no;Cerebrum;;True;male;30-39
+TCGA-W2-A7HB;No;Adrenal gland, NOS;24.0;-8979.0;Pheochromocytoma, NOS;yes;Adrenal gland, NOS;;True;male;20-29
+TCGA-AZ-5403;No;Sigmoid colon;43.0;-15983.0;Adenocarcinoma, NOS;no;Descending colon;Stage II;True;male;40-49
+TCGA-SQ-A6I6;No;Adrenal gland, NOS;39.0;-14451.0;Pheochromocytoma, malignant;no;Adrenal gland, NOS;;True;male;30-39
+TCGA-KN-8423;No;Kidney, NOS;44.0;-16335.0;Renal cell carcinoma, chromophobe type;no;Kidney, NOS;Stage I;True;male;40-49
+TCGA-EM-A2CL;No;Thyroid gland;31.0;-11649.0;Papillary carcinoma, follicular variant;no;Thyroid gland;Stage I;True;male;30-39
+TCGA-DB-A75O;No;Nervous system, NOS;29.0;-10812.0;Astrocytoma, anaplastic;no;Cerebrum;;True;male;20-29
+TCGA-TM-A84S;No;Nervous system, NOS;36.0;-13424.0;Oligodendroglioma, anaplastic;no;Cerebrum;;True;male;30-39
+TCGA-NP-A5H6;No;Kidney, NOS;49.0;-17987.0;Renal cell carcinoma, chromophobe type;no;Kidney, NOS;Stage II;True;male;40-49
+TCGA-CN-6022;Yes;Head, face or neck, NOS;49.0;-17971.0;Squamous cell carcinoma, NOS;no;Larynx, NOS;Stage IVA;True;male;40-49
+TCGA-DH-5143;No;Nervous system, NOS;30.0;-11291.0;Mixed glioma;no;Cerebrum;;True;male;30-39
+TCGA-TQ-A7RV;No;Nervous system, NOS;27.0;-10167.0;Mixed glioma;no;Cerebrum;;True;male;20-29
+TCGA-BP-4777;No;Kidney, NOS;46.0;-17133.0;Clear cell adenocarcinoma, NOS;no;Kidney, NOS;Stage I;True;male;40-49
+TCGA-DH-5142;No;Nervous system, NOS;29.0;-10678.0;Astrocytoma, anaplastic;no;Cerebrum;;True;male;20-29
+TCGA-CS-6666;No;Nervous system, NOS;22.0;-8340.0;Astrocytoma, anaplastic;no;Brain, NOS;;True;male;20-29
+TCGA-S9-A7R7;No;Nervous system, NOS;27.0;-10108.0;Astrocytoma, NOS;no;Cerebrum;;True;male;20-29
+TCGA-14-1456;Not Reported;Brain, NOS;23.0;-8710.0;Glioblastoma;not reported;Brain, NOS;;True;male;20-29
+TCGA-HT-8114;No;Nervous system, NOS;36.0;-13198.0;Mixed glioma;no;Cerebrum;;True;male;30-39
+TCGA-QR-A70Q;No;Thorax, NOS;33.0;-12394.0;Extra-adrenal paraganglioma, NOS;no;Thorax, NOS;;True;male;30-39
+TCGA-FS-A1Z7;No;Not Reported;19.0;-7293.0;Malignant melanoma, NOS;no;Skin, NOS;Stage IIIC;False;male;<20
+TCGA-Z4-A9VC;No;Connective, subcutaneous and other soft tissues of lower limb and hip;37.0;-13576.0;Dedifferentiated liposarcoma;no;Connective, subcutaneous and other soft tissues of lower limb and hip;;True;male;30-39
+TCGA-F6-A8O3;No;Nervous system, NOS;34.0;-12578.0;Oligodendroglioma, NOS;no;Cerebrum;;True;male;30-39
+TCGA-FS-A1ZR;No;Not Reported;36.0;-13325.0;Malignant melanoma, NOS;no;Skin, NOS;Stage II;False;male;30-39
+TCGA-DU-5853;No;Nervous system, NOS;29.0;-10624.0;Mixed glioma;no;Brain, NOS;;True;male;20-29
+TCGA-CC-5263;No;Liver;35.0;-12863.0;Hepatocellular carcinoma, NOS;no;Liver;Stage IIIA;True;male;30-39
+TCGA-X7-A8DG;No;Thymus;47.0;-17517.0;Thymoma, type B2, NOS;no;Thymus;;True;male;40-49
+TCGA-OR-A5LE;No;Adrenal gland, NOS;14.0;-5383.0;Adrenal cortical carcinoma;no;Cortex of adrenal gland;;True;male;<20
+TCGA-HT-7676;No;Nervous system, NOS;26.0;-9667.0;Oligodendroglioma, NOS;no;Cerebrum;;True;male;20-29
+TCGA-S9-A6U6;No;Nervous system, NOS;28.0;-10253.0;Astrocytoma, anaplastic;no;Cerebrum;;True;male;20-29
+TCGA-CW-6097;No;Kidney, NOS;32.0;-11701.0;Clear cell adenocarcinoma, NOS;no;Kidney, NOS;Stage III;True;male;30-39
+TCGA-KM-8442;Yes;Kidney, NOS;38.0;-14212.0;Renal cell carcinoma, chromophobe type;no;Kidney, NOS;Stage II;True;male;30-39
+TCGA-GS-A9TX;No;Lymph nodes of inguinal region or leg;37.0;-13708.0;Diffuse large B-cell lymphoma, NOS;no;Lymph nodes of inguinal region or leg;;True;male;30-39
+TCGA-S7-A7X1;Yes;Adrenal gland, NOS;23.0;-8426.0;Pheochromocytoma, NOS;no;Adrenal gland, NOS;;True;male;20-29
+TCGA-GN-A263;No;Skin of trunk;24.0;-8952.0;Malignant melanoma, NOS;no;Skin, NOS;Stage IV;True;male;20-29
+TCGA-GN-A267;No;Not Reported;38.0;-14055.0;Malignant melanoma, NOS;no;Skin, NOS;Stage IIIA;False;male;30-39
+TCGA-EE-A29C;No;Not Reported;20.0;-7510.0;Malignant melanoma, NOS;no;Skin, NOS;Stage IB;False;male;20-29
+TCGA-A3-A8OW;No;Kidney, NOS;37.0;-13546.0;Clear cell adenocarcinoma, NOS;no;Kidney, NOS;Stage III;True;male;30-39
+TCGA-DV-5568;No;Kidney, NOS;26.0;-9714.0;Clear cell adenocarcinoma, NOS;no;Kidney, NOS;Stage I;True;male;20-29
+TCGA-ER-A198;No;Not Reported;45.0;-16540.0;Malignant melanoma, NOS;no;Skin, NOS;;False;male;40-49
+TCGA-S9-A6U5;No;Nervous system, NOS;33.0;-12417.0;Astrocytoma, NOS;no;Cerebrum;;True;male;30-39
+TCGA-WY-A85C;No;Nervous system, NOS;36.0;-13506.0;Astrocytoma, NOS;no;Cerebrum;;True;male;30-39
+TCGA-ZC-AAA7;No;Thymus;63.0;-23265.0;Thymic carcinoma, NOS;no;Thymus;;True;male;60-69
+TCGA-FG-7634;No;Nervous system, NOS;28.0;-10476.0;Oligodendroglioma, NOS;no;Cerebrum;;True;male;20-29
+TCGA-DU-A7TA;No;Nervous system, NOS;32.0;-11764.0;Oligodendroglioma, NOS;no;Cerebrum;;True;male;30-39
+TCGA-WB-A80P;No;Retroperitoneum;20.0;-7608.0;Extra-adrenal paraganglioma, malignant;no;Retroperitoneum;;True;male;20-29
+TCGA-02-0271;Not Reported;Brain, NOS;26.0;-9578.0;Glioblastoma;not reported;Brain, NOS;;True;male;20-29
+TCGA-KO-8405;No;Kidney, NOS;29.0;-10671.0;Renal cell carcinoma, chromophobe type;no;Kidney, NOS;Stage III;True;male;20-29
