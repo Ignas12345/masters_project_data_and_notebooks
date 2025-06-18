@@ -1,138 +1,138 @@
-sample,seminoma_vs_non_seminoma,seminoma_vs_embryonal,embryonal_vs_non_embryonal_non_seminoma,teratoma_vs_non_teratoma,KIT_wildtype_vs_mutated_seminoma,teratoma_present_vs_teratoma_absent
-TCGA-2G-AAEW-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-2G-AAEX-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-2G-AAF1-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent
-TCGA-2G-AAF4-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-2G-AAF6-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-2G-AAF8-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-2G-AAFG-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-2G-AAFH-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-2G-AAFI-01,non_seminoma,unused,unused,non_teratoma,unused,teratoma_absent
-TCGA-2G-AAFJ-01,non_seminoma,unused,non_embryonal_non_seminoma,unused,unused,teratoma_present
-TCGA-2G-AAFL-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent
-TCGA-2G-AAFM-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent
-TCGA-2G-AAFN-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent
-TCGA-2G-AAFO-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent
-TCGA-2G-AAFV-01,non_seminoma,unused,non_embryonal_non_seminoma,non_teratoma,unused,teratoma_absent
-TCGA-2G-AAFY-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent
-TCGA-2G-AAFZ-01,non_seminoma,unused,unused,unused,unused,teratoma_present
-TCGA-2G-AAG0-01,non_seminoma,unused,unused,non_teratoma,unused,teratoma_absent
-TCGA-2G-AAG3-01,unused,unused,unused,unused,unused,teratoma_present
-TCGA-2G-AAG5-01,non_seminoma,unused,non_embryonal_non_seminoma,teratoma,unused,teratoma_present
-TCGA-2G-AAG6-01,non_seminoma,unused,unused,unused,unused,teratoma_present
-TCGA-2G-AAG7-01,non_seminoma,unused,unused,unused,unused,teratoma_present
-TCGA-2G-AAG8-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent
-TCGA-2G-AAG9-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent
-TCGA-2G-AAGA-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent
-TCGA-2G-AAGC-01,non_seminoma,unused,non_embryonal_non_seminoma,unused,unused,teratoma_present
-TCGA-2G-AAGE-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent
-TCGA-2G-AAGF-01,non_seminoma,unused,unused,unused,unused,teratoma_present
-TCGA-2G-AAGG-01,non_seminoma,unused,unused,unused,unused,teratoma_present
-TCGA-2G-AAGI-01,non_seminoma,unused,unused,unused,unused,teratoma_present
-TCGA-2G-AAGI-05,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent
-TCGA-2G-AAGJ-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent
-TCGA-2G-AAGK-01,non_seminoma,unused,unused,non_teratoma,unused,teratoma_absent
-TCGA-2G-AAGM-01,non_seminoma,unused,unused,non_teratoma,unused,teratoma_absent
-TCGA-2G-AAGN-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent
-TCGA-2G-AAGO-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent
-TCGA-2G-AAGP-01,non_seminoma,unused,unused,unused,unused,teratoma_present
-TCGA-2G-AAGS-01,non_seminoma,unused,unused,unused,unused,teratoma_present
-TCGA-2G-AAGT-01,non_seminoma,unused,non_embryonal_non_seminoma,non_teratoma,unused,teratoma_absent
-TCGA-2G-AAGV-01,non_seminoma,unused,non_embryonal_non_seminoma,teratoma,unused,teratoma_present
-TCGA-2G-AAGW-01,non_seminoma,unused,non_embryonal_non_seminoma,non_teratoma,unused,teratoma_absent
-TCGA-2G-AAGX-01,non_seminoma,unused,non_embryonal_non_seminoma,unused,unused,teratoma_present
-TCGA-2G-AAGY-01,non_seminoma,unused,non_embryonal_non_seminoma,teratoma,unused,teratoma_present
-TCGA-2G-AAGY-05,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-2G-AAGZ-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent
-TCGA-2G-AAH0-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-2G-AAH2-01,non_seminoma,unused,non_embryonal_non_seminoma,unused,unused,teratoma_present
-TCGA-2G-AAH3-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent
-TCGA-2G-AAH4-01,non_seminoma,unused,unused,non_teratoma,unused,teratoma_absent
-TCGA-2G-AAH8-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-2G-AAHA-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent
-TCGA-2G-AAHC-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-2G-AAHG-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-2G-AAHL-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent
-TCGA-2G-AAHN-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent
-TCGA-2G-AAHP-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-2G-AAHP-05,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-2G-AAHT-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent
-TCGA-2G-AAKD-01,non_seminoma,unused,unused,non_teratoma,unused,teratoma_absent
-TCGA-2G-AAKG-01,non_seminoma,unused,unused,unused,unused,teratoma_present
-TCGA-2G-AAKG-05,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-2G-AAKH-01,unused,unused,unused,non_teratoma,unused,teratoma_absent
-TCGA-2G-AAKL-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent
-TCGA-2G-AAKM-01,non_seminoma,unused,unused,unused,unused,unused
-TCGA-2G-AAL5-01,non_seminoma,unused,non_embryonal_non_seminoma,unused,unused,teratoma_present
-TCGA-2G-AAL7-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent
-TCGA-2G-AALP-01,non_seminoma,unused,non_embryonal_non_seminoma,unused,unused,teratoma_present
-TCGA-2X-A9D5-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent
-TCGA-2X-A9D6-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent
-TCGA-4K-AA1G-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent
-TCGA-4K-AA1H-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent
-TCGA-4K-AA1I-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-4K-AAAL-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-S6-A8JW-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-S6-A8JX-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-S6-A8JY-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-SB-A6J6-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-SB-A76C-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-SN-A6IS-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-SN-A84W-01,non_seminoma,unused,non_embryonal_non_seminoma,teratoma,unused,teratoma_present
-TCGA-SN-A84X-01,unused,unused,unused,unused,unused,teratoma_present
-TCGA-SN-A84Y-01,non_seminoma,unused,unused,non_teratoma,unused,teratoma_absent
-TCGA-SO-A8JP-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-VF-A8A8-01,non_seminoma,unused,unused,non_teratoma,unused,teratoma_absent
-TCGA-VF-A8A9-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-VF-A8AA-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent
-TCGA-VF-A8AB-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-VF-A8AC-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-VF-A8AD-01,non_seminoma,unused,unused,non_teratoma,unused,teratoma_absent
-TCGA-VF-A8AE-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-W4-A7U2-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-W4-A7U3-01,non_seminoma,unused,unused,unused,unused,teratoma_present
-TCGA-W4-A7U4-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent
-TCGA-WZ-A7V3-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-WZ-A7V4-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-WZ-A7V5-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent
-TCGA-WZ-A8D5-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-X3-A8G4-01,non_seminoma,unused,unused,unused,unused,teratoma_present
-TCGA-XE-A8H1-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent
-TCGA-XE-A8H4-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-XE-A8H5-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-XE-A9SE-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-XE-AANI-01,non_seminoma,unused,unused,unused,unused,teratoma_present
-TCGA-XE-AANJ-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-XE-AANR-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent
-TCGA-XE-AANV-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent
-TCGA-XE-AAO3-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-XE-AAO4-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-XE-AAO6-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-XE-AAOB-01,non_seminoma,unused,non_embryonal_non_seminoma,teratoma,unused,teratoma_present
-TCGA-XE-AAOC-01,non_seminoma,unused,non_embryonal_non_seminoma,teratoma,unused,teratoma_present
-TCGA-XE-AAOD-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-XE-AAOF-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent
-TCGA-XE-AAOJ-01,non_seminoma,unused,non_embryonal_non_seminoma,unused,unused,teratoma_present
-TCGA-XE-AAOL-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-XY-A89B-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-XY-A8S2-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent
-TCGA-XY-A8S3-01,non_seminoma,unused,unused,non_teratoma,unused,teratoma_absent
-TCGA-XY-A9T9-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-YU-A90P-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent
-TCGA-YU-A90Q-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent
-TCGA-YU-A90S-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent
-TCGA-YU-A90W-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-YU-A90Y-01,non_seminoma,unused,unused,non_teratoma,unused,teratoma_absent
-TCGA-YU-A912-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent
-TCGA-YU-A94D-01,non_seminoma,unused,non_embryonal_non_seminoma,unused,unused,teratoma_present
-TCGA-YU-A94I-01,non_seminoma,unused,non_embryonal_non_seminoma,non_teratoma,unused,teratoma_absent
-TCGA-YU-AA4L-01,non_seminoma,unused,non_embryonal_non_seminoma,non_teratoma,unused,teratoma_absent
-TCGA-YU-AA61-01,unused,unused,unused,unused,unused,teratoma_present
-TCGA-ZM-AA05-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent
-TCGA-ZM-AA06-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-ZM-AA0B-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
-TCGA-ZM-AA0D-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent
-TCGA-ZM-AA0E-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent
-TCGA-ZM-AA0F-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent
-TCGA-ZM-AA0H-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent
-TCGA-ZM-AA0N-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent
+sample,seminoma_vs_non_seminoma,seminoma_vs_embryonal,embryonal_vs_non_embryonal_non_seminoma,teratoma_vs_non_teratoma,KIT_wildtype_vs_mutated_seminoma,teratoma_present_vs_teratoma_absent,multiclass_label
+TCGA-2G-AAEW-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-2G-AAEX-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-2G-AAF1-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent,seminoma
+TCGA-2G-AAF4-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-2G-AAF6-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-2G-AAF8-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-2G-AAFG-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-2G-AAFH-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-2G-AAFI-01,non_seminoma,unused,unused,non_teratoma,unused,teratoma_absent,embryonal dominant
+TCGA-2G-AAFJ-01,non_seminoma,unused,non_embryonal_non_seminoma,unused,unused,teratoma_present,mature teratoma dominant
+TCGA-2G-AAFL-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent,embryonal
+TCGA-2G-AAFM-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent,embryonal
+TCGA-2G-AAFN-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent,embryonal
+TCGA-2G-AAFO-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent,embryonal
+TCGA-2G-AAFV-01,non_seminoma,unused,non_embryonal_non_seminoma,non_teratoma,unused,teratoma_absent,yolk sac
+TCGA-2G-AAFY-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent,embryonal
+TCGA-2G-AAFZ-01,non_seminoma,unused,unused,unused,unused,teratoma_present,non-seminoma- mixed (no dominant component)
+TCGA-2G-AAG0-01,non_seminoma,unused,unused,non_teratoma,unused,teratoma_absent,embryonal dominant
+TCGA-2G-AAG3-01,unused,unused,unused,unused,unused,teratoma_present,mature teratoma dominant
+TCGA-2G-AAG5-01,non_seminoma,unused,non_embryonal_non_seminoma,teratoma,unused,teratoma_present,mature teratoma
+TCGA-2G-AAG6-01,non_seminoma,unused,unused,unused,unused,teratoma_present,mature teratoma dominant
+TCGA-2G-AAG7-01,non_seminoma,unused,unused,unused,unused,teratoma_present,non-seminoma- mixed (no dominant component)
+TCGA-2G-AAG8-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent,embryonal
+TCGA-2G-AAG9-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent,seminoma
+TCGA-2G-AAGA-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent,embryonal
+TCGA-2G-AAGC-01,non_seminoma,unused,non_embryonal_non_seminoma,unused,unused,teratoma_present,immature teratoma dominant
+TCGA-2G-AAGE-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent,embryonal
+TCGA-2G-AAGF-01,non_seminoma,unused,unused,unused,unused,teratoma_present,non-seminoma- mixed (no dominant component)
+TCGA-2G-AAGG-01,non_seminoma,unused,unused,unused,unused,teratoma_present,non-seminoma- mixed (no dominant component)
+TCGA-2G-AAGI-01,non_seminoma,unused,unused,unused,unused,teratoma_present,mature teratoma dominant
+TCGA-2G-AAGI-05,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent,seminoma
+TCGA-2G-AAGJ-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent,embryonal
+TCGA-2G-AAGK-01,non_seminoma,unused,unused,non_teratoma,unused,teratoma_absent,yolk sac dominant
+TCGA-2G-AAGM-01,non_seminoma,unused,unused,non_teratoma,unused,teratoma_absent,yolk sac dominant
+TCGA-2G-AAGN-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent,embryonal
+TCGA-2G-AAGO-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent,embryonal
+TCGA-2G-AAGP-01,non_seminoma,unused,unused,unused,unused,teratoma_present,mature teratoma dominant
+TCGA-2G-AAGS-01,non_seminoma,unused,unused,unused,unused,teratoma_present,non-seminoma- mixed (no dominant component)
+TCGA-2G-AAGT-01,non_seminoma,unused,non_embryonal_non_seminoma,non_teratoma,unused,teratoma_absent,yolk sac
+TCGA-2G-AAGV-01,non_seminoma,unused,non_embryonal_non_seminoma,teratoma,unused,teratoma_present,mature teratoma
+TCGA-2G-AAGW-01,non_seminoma,unused,non_embryonal_non_seminoma,non_teratoma,unused,teratoma_absent,yolk sac
+TCGA-2G-AAGX-01,non_seminoma,unused,non_embryonal_non_seminoma,unused,unused,teratoma_present,mature teratoma dominant
+TCGA-2G-AAGY-01,non_seminoma,unused,non_embryonal_non_seminoma,teratoma,unused,teratoma_present,mature teratoma dominant
+TCGA-2G-AAGY-05,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-2G-AAGZ-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent,embryonal
+TCGA-2G-AAH0-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-2G-AAH2-01,non_seminoma,unused,non_embryonal_non_seminoma,unused,unused,teratoma_present,mature teratoma dominant
+TCGA-2G-AAH3-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent,seminoma
+TCGA-2G-AAH4-01,non_seminoma,unused,unused,non_teratoma,unused,teratoma_absent,yolk sac dominant
+TCGA-2G-AAH8-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-2G-AAHA-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent,seminoma
+TCGA-2G-AAHC-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-2G-AAHG-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-2G-AAHL-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent,seminoma
+TCGA-2G-AAHN-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent,seminoma
+TCGA-2G-AAHP-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-2G-AAHP-05,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-2G-AAHT-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent,seminoma
+TCGA-2G-AAKD-01,non_seminoma,unused,unused,non_teratoma,unused,teratoma_absent,embryonal dominant
+TCGA-2G-AAKG-01,non_seminoma,unused,unused,unused,unused,teratoma_present,non-seminoma- mixed (no dominant component)
+TCGA-2G-AAKG-05,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-2G-AAKH-01,unused,unused,unused,non_teratoma,unused,teratoma_absent,non-seminoma- mixed (no dominant component)
+TCGA-2G-AAKL-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent,embryonal
+TCGA-2G-AAKM-01,non_seminoma,unused,unused,unused,unused,unused,embryonal dominant
+TCGA-2G-AAL5-01,non_seminoma,unused,non_embryonal_non_seminoma,unused,unused,teratoma_present,yolk sac dominant
+TCGA-2G-AAL7-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent,embryonal
+TCGA-2G-AALP-01,non_seminoma,unused,non_embryonal_non_seminoma,unused,unused,teratoma_present,yolk sac dominant
+TCGA-2X-A9D5-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent,seminoma
+TCGA-2X-A9D6-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent,seminoma
+TCGA-4K-AA1G-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent,seminoma
+TCGA-4K-AA1H-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent,seminoma
+TCGA-4K-AA1I-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-4K-AAAL-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-S6-A8JW-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-S6-A8JX-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-S6-A8JY-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-SB-A6J6-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-SB-A76C-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-SN-A6IS-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-SN-A84W-01,non_seminoma,unused,non_embryonal_non_seminoma,teratoma,unused,teratoma_present,mature teratoma
+TCGA-SN-A84X-01,unused,unused,unused,unused,unused,teratoma_present,mature teratoma dominant
+TCGA-SN-A84Y-01,non_seminoma,unused,unused,non_teratoma,unused,teratoma_absent,embryonal dominant
+TCGA-SO-A8JP-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-VF-A8A8-01,non_seminoma,unused,unused,non_teratoma,unused,teratoma_absent,embryonal dominant
+TCGA-VF-A8A9-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-VF-A8AA-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent,seminoma
+TCGA-VF-A8AB-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-VF-A8AC-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-VF-A8AD-01,non_seminoma,unused,unused,non_teratoma,unused,teratoma_absent,embryonal dominant
+TCGA-VF-A8AE-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-W4-A7U2-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-W4-A7U3-01,non_seminoma,unused,unused,unused,unused,teratoma_present,non-seminoma- mixed (no dominant component)
+TCGA-W4-A7U4-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent,embryonal
+TCGA-WZ-A7V3-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-WZ-A7V4-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-WZ-A7V5-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent,seminoma
+TCGA-WZ-A8D5-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-X3-A8G4-01,non_seminoma,unused,unused,unused,unused,teratoma_present,yolk sac dominant
+TCGA-XE-A8H1-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent,embryonal
+TCGA-XE-A8H4-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-XE-A8H5-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-XE-A9SE-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-XE-AANI-01,non_seminoma,unused,unused,unused,unused,teratoma_present,non-seminoma- mixed (no dominant component)
+TCGA-XE-AANJ-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-XE-AANR-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent,seminoma
+TCGA-XE-AANV-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent,seminoma
+TCGA-XE-AAO3-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-XE-AAO4-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-XE-AAO6-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-XE-AAOB-01,non_seminoma,unused,non_embryonal_non_seminoma,teratoma,unused,teratoma_present,immature teratoma dominant
+TCGA-XE-AAOC-01,non_seminoma,unused,non_embryonal_non_seminoma,teratoma,unused,teratoma_present,mature teratoma dominant
+TCGA-XE-AAOD-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-XE-AAOF-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent,seminoma
+TCGA-XE-AAOJ-01,non_seminoma,unused,non_embryonal_non_seminoma,unused,unused,teratoma_present,yolk sac dominant
+TCGA-XE-AAOL-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-XY-A89B-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-XY-A8S2-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent,embryonal
+TCGA-XY-A8S3-01,non_seminoma,unused,unused,non_teratoma,unused,teratoma_absent,embryonal dominant
+TCGA-XY-A9T9-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-YU-A90P-01,non_seminoma,ebryonal_carcinoma,ebryonal_carcinoma,non_teratoma,unused,teratoma_absent,embryonal
+TCGA-YU-A90Q-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent,seminoma
+TCGA-YU-A90S-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent,seminoma
+TCGA-YU-A90W-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-YU-A90Y-01,non_seminoma,unused,unused,non_teratoma,unused,teratoma_absent,embryonal dominant
+TCGA-YU-A912-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent,seminoma
+TCGA-YU-A94D-01,non_seminoma,unused,non_embryonal_non_seminoma,unused,unused,teratoma_present,immature teratoma dominant
+TCGA-YU-A94I-01,non_seminoma,unused,non_embryonal_non_seminoma,non_teratoma,unused,teratoma_absent,yolk sac
+TCGA-YU-AA4L-01,non_seminoma,unused,non_embryonal_non_seminoma,non_teratoma,unused,teratoma_absent,yolk sac
+TCGA-YU-AA61-01,unused,unused,unused,unused,unused,teratoma_present,yolk sac dominant
+TCGA-ZM-AA05-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent,seminoma
+TCGA-ZM-AA06-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-ZM-AA0B-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
+TCGA-ZM-AA0D-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent,seminoma
+TCGA-ZM-AA0E-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent,seminoma
+TCGA-ZM-AA0F-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent,seminoma
+TCGA-ZM-AA0H-01,seminoma,seminoma,unused,non_teratoma,KIT_mutated_seminoma,teratoma_absent,seminoma
+TCGA-ZM-AA0N-01,seminoma,seminoma,unused,non_teratoma,KIT_wildtype_seminoma,teratoma_absent,seminoma
