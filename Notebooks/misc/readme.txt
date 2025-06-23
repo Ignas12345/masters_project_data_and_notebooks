@@ -1,0 +1,1 @@
+1) TCGA_TGCT_pca_plots_ver_2.ipynb - Same as original version of this notebook, but now we scale the normalization by hsa-mir-16-5p also by the mean of it across samples, so that each samples expression of this gene is the mean of it across samples instead of 1 (has implications for log transformation methods).
