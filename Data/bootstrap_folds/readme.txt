@@ -1,1 +1,2 @@
-These were created using the notebook: Notebooks/data_download_and_preparation/TCGA_TGCT_prepare_bootstrap_folds.ipynb
+For experiments using different TGCT subtypes (found in https://www.cell.com/cms/10.1016/j.celrep.2018.05.039/attachment/c0b32f0d-2761-4f95-b667-b6fe9350049c/mmc1.pdf), the folds were created using the notebook: Notebooks/data_download_and_preparation/TCGA_TGCT_prepare_bootstrap_folds.ipynb
+TGCT_vs_non_TGCT folds were sampled in notebook: Notebooks/misc/prepare_TGCT_vs_non_TGCT_bootstrap_folds.ipynb
