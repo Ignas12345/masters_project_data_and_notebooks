@@ -2,3 +2,4 @@
 2)TCGA_TGCT_mirna_isoform_data_raw_counts.csv - microrna expression raw counts of TCGA-TGCT samples. Downloaded using the same notebook as rpm counts: "Notebooks/data_download_and_preparation/TCGA_TGCT_miRNA_exp_download.ipynb"
 3)TCGA_other_samples_mirna_isoform_data_raw_counts.csv and TCGA_other_samples_mirna_isoform_data_rpm_counts.csv - these contain the mirna expression profiles for other, non-TGCT, cancer patients. The idea behind using these expression profiles is to detect possible biomarkers that are specific to TGCTs. Downloaded using: "Notebooks/data_download_and_preparation/TCGA_other_sample_expression_download.ipynb"
 4)GTEx_rpm_counts.csv - data for GTEx samples. Prepared using two notebooks: "Notebooks/data_download_and_preparation/GTEx_choosing_samples.ipynb" and "Gtex_data_download_and_formatting.ipynb".
+5)TGCT_non_TGCT_GTEx_combined_mirna_rpm_counts.csv - prepared using: "Notebooks/misc/prepare_TGCT_vs_non_TGCT_rpm_counts.ipynb"
