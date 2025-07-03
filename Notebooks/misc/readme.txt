@@ -1,2 +1,3 @@
 1) TCGA_TGCT_pca_plots_ver_2.ipynb - Same as original version of this notebook, but now we scale the normalization by hsa-mir-16-5p also by the mean of it across samples, so that each samples expression of this gene is the mean of it across samples instead of 1 (has implications for log transformation methods).
 2) prepare_TGCT_vs_non_TGCT_rpm_counts.ipynb - prepare Data/expression_values/TGCT_non_TGCT_GTEx_combined_mirna_rpm_counts.csv and Data/sample_annotations/TGCT_vs_non_TGCT_labels.csv
+3) mirna_cluster_preparation_notebook.ipynb - prepares data from miRCarta database for grouping mirnas according to proximity on the chromosome. Final file is: Data/miRNA_clusters_information/miRCarta_cluster_df.csv
