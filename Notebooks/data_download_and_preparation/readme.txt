@@ -6,3 +6,4 @@ Files prepared using these notebooks:
 5)TCGA_TGCT_prepare_bootstrap_folds.ipynb - used to prepare files in "Data/bootstrap_folds"
 6)TCGA_other_sample_expression_download.ipynb - "Data/expression_values/TCGA_other_samples_mirna_isoform_data_raw_counts.csv" and "TCGA_other_samples_mirna_isoform_data_rpm.csv"
 7)Gtex_data_download_and_formatting.ipynb and GTEx_choosing_samples.ipynb - "Data/expression_values/GTEx_rpm_counts.csv"
+8)prepare_teraoma_burden_df.py - a small piece of code used for preparing Data/sample_annotations/teratoma_burden_df.csv

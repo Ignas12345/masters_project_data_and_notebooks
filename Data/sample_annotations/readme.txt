@@ -5,3 +5,4 @@
 5) TCGA_TGCT_division_by_stage.csv - prepared using : "Notebooks/data_download_and_preparation/prepare_experiment_by_clin_stage_and_non_TGCT_samples.ipynb"
 6) filtered_other_tcga_patients_clin_data.csv - this is a file with clinical data for TCGA patients that are male, not from the TGCT study and follow an age distribution that is similar to TGCT patients. It is quite arbitrary and might not neccessarily need to be used. Prepared using: "Notebooks/data_download_and_preparation/prepare_experiment_by_clin_stage_and_non_TGCT_samples.ipynb"
 7) TGCT_vs_non_TGCT_labels.csv - prepared using: "Notebooks/misc/prepare_TGCT_vs_non_TGCT_rpm_counts.ipynb"
+8) teratoma_burden_df.csv - contains % of each type of teratoma for TGCT patients, prepared using: Notebooks/data_download_and_preparation/prepare_teraoma_burden_df.py
