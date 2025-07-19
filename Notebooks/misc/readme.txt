@@ -2,3 +2,4 @@
 2) prepare_TGCT_vs_non_TGCT_rpm_counts.ipynb - prepare Data/expression_values/TGCT_non_TGCT_GTEx_combined_mirna_rpm_counts.csv and Data/sample_annotations/TGCT_vs_non_TGCT_labels.csv
 3) mirna_cluster_preparation_notebook.ipynb - prepares data from miRCarta database for grouping mirnas according to proximity on the chromosome. Final file is: "Data/miRNA_clusters_information/miRCarta_cluster_df.csv"
 4) TCGA_TCGT_differentially_expressed_mirnas_reproduction.ipynb - reproduces the results of figure S5 A of the TCGA_TGCT study supplementary document S1 (https://www.cell.com/cms/10.1016/j.celrep.2018.05.039/attachment/c0b32f0d-2761-4f95-b667-b6fe9350049c/mmc1.pdf). Note that this notebook is a part of an older repository and depends on it.
+5) Regression_teratoma_burden.ipynb - added a notebook with the regression experiment (no bootstrapping) for finding mirnas correlated with teratoa burden.
